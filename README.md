@@ -4,6 +4,8 @@
 
 The extension was originally developed and distributed by **0001.pro**.
 
+![Category Plus](screenshots/category_plus_360x215.png)
+
 > **Archive status:** This project is preserved for historical and compatibility purposes. It is no longer actively developed or supported.
 
 ## Features
@@ -18,6 +20,16 @@ The extension was originally developed and distributed by **0001.pro**.
 - Configurable number of initially opened levels
 - Support for disabled categories and subcategories
 - Compatible with the standard OpenCart category layout
+
+## Screenshots
+
+### Main screenshot
+
+![Category Plus](screenshots/category_plus_710x380.jpg)
+
+### Alternative original screenshot
+
+![Category Plus](screenshots/category_plus_710x380.png)
 
 ## Compatibility
 
@@ -86,6 +98,7 @@ This repository preserves:
 
 - the original `categoryplus-v3.x.ocmod.zip` installation package;
 - the unpacked contents of the package for source-code inspection;
+- original screenshots and the extension logo;
 - this README with historical project information.
 
 The original ZIP package is preserved unchanged.
