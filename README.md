@@ -23,13 +23,7 @@ The extension was originally developed and distributed by **0001.pro**.
 
 ## Screenshots
 
-### Main screenshot
-
 ![Category Plus](screenshots/category_plus_710x380.jpg)
-
-### Alternative original screenshot
-
-![Category Plus](screenshots/category_plus_710x380.png)
 
 ## Compatibility
 
